@@ -1,9 +1,14 @@
 # Reto #1: ¡Automatizando envolver regalos de navidad!
 
-<div style="display: flex;">
-    <p align="left" style="flex: 1;"> <a href="challenge_02.md"> << Reto anterior </a> </p>
-    <p align="center" style="flex: 1;"> <a href="../"> Principal </a> </p>
-    <p align="right" style="flex: 1;"> <a href="challenge_02.md"> Siguiente reto >> </a> </p>
+|Name||||||||Value||||||||
+|Key1||||||||value2||||||||
+|Key2||||||||value2||||||||
+|Key3||||||||value3||||||||
+
+<div style="display: inline;">
+    <p align="left"> <a href="challenge_02.md"> << Reto anterior </a> </p>
+    <p align="center"> <a href="../"> Principal </a> </p>
+    <p align="right"> <a href="challenge_02.md"> Siguiente reto >> </a> </p>
 </div>
 
 <div>
