@@ -1,5 +1,11 @@
 # Reto #1: ¡Automatizando envolver regalos de navidad!
 
+<div style="display: flex;">
+    <p align="left" style="flex: 1;"> <a href="challenge_02.md"> << Reto anterior </a> </p>
+    <p align="center" style="flex: 1;"> <a href="../"> Principal </a> </p>
+    <p align="right" style="flex: 1;"> <a href="challenge_02.md"> Siguiente reto >> </a> </p>
+</div>
+
 <div>
     <p align="center">
         <img src="../media/icon_challenge_01.svg" alt="icon" width="300px">
@@ -38,13 +44,14 @@ function wrapping(gifts) {
 }
 ```
 
-<p align="left">
-    Puede Participar en el reto Aquí: 
-    <a href="https://adventjs.dev/es/challenges/2022/1">
-        <img alt="Visitar" src="../media/visitar.svg"/>
-    </a>
-</p>
-
+<div>
+    <p align="left">
+        Puede Participar en el reto Aquí: 
+        <a href="https://adventjs.dev/es/challenges/2022/1" target="_blank">
+            <img alt="Visitar" src="../media/visitar.svg"/>
+        </a>
+    </p>
+</div>
 
 ## Soluciones
 

@@ -56,8 +56,18 @@ function getMaxGifts(giftsCities, maxGifts, maxCities) {
 }
 ```
 
+<div>
+    <p align="left">
+        Puede Participar en el reto Aquí: 
+        <a href="https://adventjs.dev/es/challenges/2022/5" target="_blank">
+            <img alt="Visitar" src="../media/visitar.svg"/>
+        </a>
+    </p>
+</div>
 
 ## Soluciones
+
+> **_NOTE:_** La fuente de estas soluciones las estare dejando Aquí: [ChallengeJs Reto 05](project_test/js/challenge_05.js) y el archivo con los test esta Aquí: [App Test](project_test/js/app.js)
 
 ### #Primero
 ```js
