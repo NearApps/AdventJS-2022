@@ -34,12 +34,21 @@ Ah, y no ***modifiques (mutes) el array original***.
 ### #Output
 ```js
 function wrapping(gifts) {
-    return []
+    return [];
 }
 ```
 
+<p align="left">
+    Puede Participar en el reto Aquí: 
+    <a href="https://adventjs.dev/es/challenges/2022/1">
+        <img alt="Visitar" src="../media/visitar.svg"/>
+    </a>
+</p>
+
 
 ## Soluciones
+
+> **_NOTE:_** La fuente de estas soluciones las estare dejando Aquí: [ChallengeJs Reto 01](project_test%2Fjs%2Fchallenge_01.js) y el archivo con los test esta Aquí: [App Test](project_test%2Fjs%2Fapp.js)
 
 ### #Primero
 ```js
