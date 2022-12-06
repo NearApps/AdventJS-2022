@@ -1,7 +1,7 @@
 # Reto #1: ¡Automatizando envolver regalos de navidad!
 
 <div>
-    <p style = 'text-align:center; margin-top: 50px; margin-bottom: 50px;'>
+    <p align="center">
         <img src="../media/icon_challenge_01.svg" alt="icon" width="300px">
     </p>
 </div>
@@ -31,7 +31,7 @@ Como ves, el papel de regalo envuelve el string. Por arriba y por abajo, para no
 
 Ah, y no ***modifiques (mutes) el array original***.
 
-### OutPut
+### #Output
 ```js
 function wrapping(gifts) {
     return []
@@ -39,9 +39,9 @@ function wrapping(gifts) {
 ```
 
 
-## Posibles Soluciones
+## Soluciones
 
-### Primero
+### #Primero
 ```js
 function wrapping(gifts) {
     return gifts.map(function(gift){
