@@ -58,3 +58,15 @@ function createCube(size) {
     }
     return up + down.slice(0, -1)
 }
+
+function createCube(size) {
+    let getCubePart = (front, side) =>
+      Array.from({ length: size }, (_, i) => 
+      ' '.repeat((size - 2) - (i - 1)) + 
+      front.repeat(i + 1) + 
+      side.repeat(size))
+    return [
+      ...getCubePart('/\\', '_\\'), 
+      ...getCubePart('\\/', '_/').reverse()
+      ].join('\n')
+  }
